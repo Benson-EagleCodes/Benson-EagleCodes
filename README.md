@@ -2,7 +2,7 @@
 - 👀 I’m interested in technical stuffs 
 - 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on with others to learn more 
-- 📫 How to reach me { WhatsApp: +233591511658, email: eaglecode5002@gmail.com}
+- 📫 How to reach me { WhatsApp: +233591511658, email: theeaglebenson}
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: very jovial 
 
